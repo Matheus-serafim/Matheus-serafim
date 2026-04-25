@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou o Matheus 
 
-<!--
-**Matheus-serafim/Matheus-serafim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Desenvolvedor Front-End em formação  
+ Focado em JavaScript, DOM e projetos reais  
+ Buscando oportunidades como freelancer  
 
-Here are some ideas to get you started:
+##  Projetos principais:
+- Lismakes (site real)
+- Sistema de clientes com localStorage
+- Lista de tarefas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Tecnologias:
+- HTML
+- CSS
+- JavaScript
