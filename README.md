@@ -6,8 +6,6 @@
 
 ##  Projetos principais:
 - Lismakes (site real)
-- Sistema de clientes com localStorage
-- Lista de tarefas
 
 ##  Tecnologias:
 - HTML
